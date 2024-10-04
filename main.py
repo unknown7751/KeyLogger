@@ -45,7 +45,7 @@ def open_log_file():
 
 with open("log.txt", "a") as file:
     x = datetime.datetime.now()
-    file.write(f"{str(x.day)}/{str(x.month)}/{str(x.year)}  {x.hour}:{x.minute}\n")
+    file.write(f"\n{str(x.day)}/{str(x.month)}/{str(x.year)}  {x.hour}:{x.minute}\n")
 
 root = tk.Tk()
 root.geometry("400x410")
