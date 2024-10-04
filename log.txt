@@ -1,0 +1,2 @@
+'hello' <Key.space : Pressed> 'world' <Key.alt_l : Pressed>  <Key.ctrl_l : Pressed>  <Key.alt_gr : Pressed>  <Key.left : Pressed>  <Key.ctrl_l : Pressed>  <Key.ctrl_r : Pressed> 4/10/2024  22:44
+'hheelllloo' <Key.space : Pressed>  <Key.space : Released> 'wwoorrlldd' <Key.space : Pressed>  <Key.space : Released>  <Key.ctrl_l : Pressed>  <Key.alt_gr : Pressed>  <Key.ctrl_l : Released>  <Key.alt_gr : Released>  <Key.ctrl_r : Pressed>  <Key.ctrl_r : Released>  <Key.ctrl_l : Pressed>  <Key.ctrl_l : Released>  <Key.page_up : Pressed>  <Key.page_up : Released> 
